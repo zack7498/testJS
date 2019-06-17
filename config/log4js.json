@@ -1,0 +1,14 @@
+{
+    "appenders":{
+        "SysNormalMsg": {
+            "type": "stdout",
+            "layout": { "type": "coloured" }
+        }
+    },
+    "categories":{
+        "default":{
+            "appenders": ["SysNormalMsg"],
+            "level": "info"
+        }
+    }
+}
