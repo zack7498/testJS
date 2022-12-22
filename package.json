@@ -12,7 +12,7 @@
     "blessed": "^0.1.81",
     "blessed-contrib": "^4.8.5",
     "json-size": "^1.0.0",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "log4js": "^2.5.3",
     "mongodb": "^3.1.4",
     "mongoose": "^5.2.14",
